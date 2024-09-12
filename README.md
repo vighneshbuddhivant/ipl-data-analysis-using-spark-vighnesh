@@ -31,4 +31,4 @@ This project leverages Apache Spark and Databricks to perform a comprehensive an
 - **Real-World Application**: Direct application to sports analytics, showcasing versatility and problem-solving skills.
 
 
-Feel free to connect with me on [LINKDIN](www.linkedin.com/in/vighneshbuddhivant) to discuss this project or other data engineering topics!
+Feel free to connect with me on <a href=www.linkedin.com/in/vighneshbuddhivant>LINKDIN</a> to discuss this project or other data engineering topics!
