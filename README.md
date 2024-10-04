@@ -3,6 +3,9 @@
 ## 📊 Project Overview
 This project leverages Apache Spark and Databricks to perform a comprehensive analysis of Indian Premier League (IPL) data. The goal is to gain insights into player performance, team statistics, and match outcomes through scalable data processing and analysis.
 
+## Architecture
+![image](https://github.com/vighneshbuddhivant/ipl-data-analysis-using-spark-vighnesh/blob/458bc3463dcaf0e7ed897184669be1671d58ff87/ipl-pipleine-architecture.png)
+
 ## 🛠️ Technologies and tools Used
 - **Apache Spark**: For scalable data processing.
 - **Databricks**: For managing and running Spark jobs efficiently.
